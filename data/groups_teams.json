@@ -1,0 +1,172 @@
+{
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Qatar",
+          "rate": 1664
+        },
+        {
+          "name": "Ecuador",
+          "rate": 1840
+        },
+        {
+          "name": "Senegal",
+          "rate": 1687
+        },
+        {
+          "name": "Netherlands",
+          "rate": 2040
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "England",
+          "rate": 1920
+        },
+        {
+          "name": "Iran",
+          "rate": 1817
+        },
+        {
+          "name": "United States",
+          "rate": 1798
+        },
+        {
+          "name": "Wales",
+          "rate": 1790
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "Argentina",
+          "rate": 2141
+        },
+        {
+          "name": "Saudi Arabia",
+          "rate": 1632
+        },
+        {
+          "name": "Mexico",
+          "rate": 1813
+        },
+        {
+          "name": "Poland",
+          "rate": 1809
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "France",
+          "rate": 2005
+        },
+        {
+          "name": "Australia",
+          "rate": 1719
+        },
+        {
+          "name": "Denmark",
+          "rate": 1971
+        },
+        {
+          "name": "Tunisia",
+          "rate": 1687
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Spain",
+          "rate": 2045
+        },
+        {
+          "name": "Costa Rica",
+          "rate": 1736
+        },
+        {
+          "name": "Germany",
+          "rate": 1960
+        },
+        {
+          "name": "Japan",
+          "rate": 1798
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Belgium",
+          "rate": 2025
+        },
+        {
+          "name": "Canada",
+          "rate": 1770
+        },
+        {
+          "name": "Morocco",
+          "rate": 1753
+        },
+        {
+          "name": "Croatia",
+          "rate": 1922
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        {
+          "name": "Brazil",
+          "rate": 2169
+        },
+        {
+          "name": "Serbia",
+          "rate": 1892
+        },
+        {
+          "name": "Switzerland",
+          "rate": 1929
+        },
+        {
+          "name": "Cameroon",
+          "rate": 1613
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        {
+          "name": "Portugal",
+          "rate": 2004
+        },
+        {
+          "name": "Ghana",
+          "rate": 1540
+        },
+        {
+          "name": "Uruguay",
+          "rate": 1936
+        },
+        {
+          "name": "South Korea",
+          "rate": 1783
+        }
+      ]
+    }
+  ]
+}
